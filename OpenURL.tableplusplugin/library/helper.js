@@ -13,5 +13,4 @@ var getURL = function(string) {
     return null;
 }
 
-
 export { getURL };
