@@ -10,6 +10,10 @@ TablePlus build 74 and above.
 
 # Install
 
+### From release
+
+Download [release](https://github.com/TablePlus/OpenURL/releases), unzip and double click on file plugin to install.
+
 ### Build from source
 
 ```
