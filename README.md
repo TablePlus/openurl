@@ -1,25 +1,21 @@
 # This is an example for TablePlus Plugin
 
-Generate dummies data for text, string, integer and timestamp fields.
-![DemoDummiesData](https://media.giphy.com/media/l41JUfxhRuvHZH9Ju/giphy.gif)
+Open url/email from cell data
 
 # Support
 
-TablePlus build 56 and above.
+TablePlus build 74 and above.
 
 # Install
-
-### The latest release [DummiesData.zip](https://github.com/TablePlus/DummiesData/files/1517390/DummiesData.zip)
-
-Unzip and double click on `DummiesData.tableplusplugin` to install the Plugin.
 
 ### Build from source
 
 ```
-git clone git@github.com:TablePlus/DummiesData.git
-cd DummiesData/DummiesData.tableplusplugin
+git clone git@github.com:TablePlus/OpenURL.git
+cd OpenURL/OpenURL.tableplusplugin
 npm install
 npm run build
+open .
 ```
 
 Table a look at early access [APIs](https://github.com/TablePlus/TablePlus/wiki/plugin-api)
@@ -28,9 +24,9 @@ Table a look at early access [APIs](https://github.com/TablePlus/TablePlus/wiki/
 
 1. Open a connection.
 2. Open a table.
-3. Click on Plugin icon in the left side bar or press `command + L`.
-4. Click `run` in the Plugin.
+3. Click on a cell.
+4. Choose open URL in menu.
 
 # License
 
-DummiesData is released under the MIT license. See [LICENSE](https://github.com/TablePlus/DummiesData/blob/master/LICENSE) for details.
+OpenURL is released under the MIT license. See [LICENSE](https://github.com/TablePlus/DummiesData/blob/master/LICENSE) for details.
