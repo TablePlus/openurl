@@ -2,6 +2,8 @@
 
 Open url/email from cell data
 
+![menu](https://github.com/TablePlus/OpenURL/blob/master/Resource/url.png "menu")
+
 # Support
 
 TablePlus build 74 and above.
