@@ -31,7 +31,7 @@ Table a look at early access [APIs](https://github.com/TablePlus/TablePlus/wiki/
 1. Open a connection.
 2. Open a table.
 3. Click on a cell.
-4. Choose open URL in menu.
+4. Click on `Go to URL` in menu.
 
 # License
 
