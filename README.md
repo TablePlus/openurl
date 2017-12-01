@@ -1,4 +1,6 @@
-# This is an example for TablePlus Plugin
+# What is this
+
+This is a TablePlus Plugin, install Open URL you will have a menu Go to URL in context menu.
 
 Open url/email from cell data
 
