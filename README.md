@@ -1,8 +1,6 @@
 # What is this
 
-This is a TablePlus Plugin, install Open URL you will have a menu Go to URL in context menu.
-
-Open url/email from cell data
+This is a TablePlus Plugin, install OpenURL you will have a menu `Go to URL` in context menu. The menu is using for open an url/email from cell data.
 
 ![menu](https://github.com/TablePlus/OpenURL/blob/master/Resource/url.png "menu")
 

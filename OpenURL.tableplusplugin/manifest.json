@@ -9,7 +9,7 @@
         {
             "script": "openURL.js",
             "type": "data",
-            "name": "Open URL"
+            "name": "Go to URL"
         }
     ]
 }
