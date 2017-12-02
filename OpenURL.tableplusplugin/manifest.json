@@ -7,8 +7,13 @@
     "authorEmail": "support@tableplus.io",
     "scripts": [
         {
+            "location": "data",
+            "type": "separator"
+        },
+        {
+            "location": "data",
+            "type": "action",
             "script": "openURL.js",
-            "type": "data",
             "name": "Go to URL"
         }
     ]
