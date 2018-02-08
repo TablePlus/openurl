@@ -24,8 +24,6 @@ npm run build
 open .
 ```
 
-Table a look at early access [APIs](https://github.com/TablePlus/TablePlus/wiki/plugin-api)
-
 # How to use
 
 1. Open a connection.
